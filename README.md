@@ -4,7 +4,9 @@ You can read more on [Building a 3D Game with LibGDX]
 # Building-a-3D-Game-with-LibGDX
 Building a 3D Game with LibGDX by Packt Publishing
 
-Chapter 1, 2, and 7 Does Not Include any Code files
+Chapter 1, 2, and 7 Does Not Include any Code files.
+
+
 Make sure to use Command Prompt as an Administrator while using FBX-CONV to convert files.
 
 Related LibGDX Books
