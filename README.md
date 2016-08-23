@@ -6,6 +6,11 @@ Building a 3D Game with LibGDX by Packt Publishing
 
 Chapter 1, 2, and 7 Does Not Include any Code files.
 
+If the msi installer for blender is giving an error
+Go to http://download.blender.org/release/
+
+Download the compressed zip file instead of the .msi. Then extract the folder. This seems to work.
+
 
 Make sure to use Command Prompt as an Administrator while using FBX-CONV to convert files.
 
